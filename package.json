@@ -10,7 +10,9 @@
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-source-filesystem": "^1.5.29",
     "gatsby-transformer-remark": "^1.7.39",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "remark": "^9.0.0",
+    "showdown": "^1.8.6"
   },
   "keywords": [
     "gatsby"

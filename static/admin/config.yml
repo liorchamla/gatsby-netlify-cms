@@ -13,3 +13,4 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
+      - { name: sections, label: Sections, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: "Background image", name: background, widget: file}, {label: Content, name: content, widget: markdown}]}
